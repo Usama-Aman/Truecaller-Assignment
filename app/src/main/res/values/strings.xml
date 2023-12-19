@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Usama_Aman</string>
+    <string name="title_task1">The 15th character is :</string>
+    <string name="title_task2">The every 15th character is :</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="truecaller_assignment">Truecaller</string>
+    <string name="title_task3">Words Count</string>
+    <string name="btn_title_load_url">Load URL Content</string>
+</resources>
